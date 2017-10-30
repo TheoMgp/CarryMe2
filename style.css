@@ -1,0 +1,27 @@
+.title-navbar {
+	color: blue;
+}
+
+.banner{
+  text-align: center;
+  background-image: url("marseille.jpg");
+  background-size: cover;
+  padding: 310px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.maclasse{
+	justify-content: flex-end;
+}
